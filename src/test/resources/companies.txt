@@ -1,0 +1,1 @@
+{"company_id": 1, "company_name": "Intercom", "latitude": 53.339428, "longitude": -6.25766}
